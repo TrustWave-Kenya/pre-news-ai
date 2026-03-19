@@ -1,0 +1,9 @@
+dash
+plotly
+pandas
+numpy
+requests
+python-telegram-bot
+textblob
+scikit-learn
+gunicorn
